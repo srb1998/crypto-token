@@ -7,7 +7,7 @@
 
     import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol";
 
-    contract Sourabhcoin is ERC20 {
+    contract SourabhCoin is ERC20 {
     
         constructor(string memory _name,string memory _symbol)
 
